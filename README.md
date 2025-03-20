@@ -1,4 +1,4 @@
-Jupyter Notebook file:
+Jupyter Notebook file: <br />
 T5_finetuning - was used to train the T5-flan model on tone-based counterspeech
 modelTestingandComparison - this was used to generate outputs and for BERTScore and ROGUE-L
 
